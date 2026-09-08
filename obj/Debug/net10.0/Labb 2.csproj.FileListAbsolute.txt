@@ -1,0 +1,15 @@
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.AssemblyInfoInputs.cache
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.AssemblyInfo.cs
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.csproj.CoreCompileInputs.cache
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.sourcelink.json
+D:\Repos\Skoluppgifter - YH backend\Labb 2\bin\Debug\net10.0\Labb 2.exe
+D:\Repos\Skoluppgifter - YH backend\Labb 2\bin\Debug\net10.0\Labb 2.deps.json
+D:\Repos\Skoluppgifter - YH backend\Labb 2\bin\Debug\net10.0\Labb 2.runtimeconfig.json
+D:\Repos\Skoluppgifter - YH backend\Labb 2\bin\Debug\net10.0\Labb 2.dll
+D:\Repos\Skoluppgifter - YH backend\Labb 2\bin\Debug\net10.0\Labb 2.pdb
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.dll
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\refint\Labb 2.dll
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.pdb
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\Labb 2.genruntimeconfig.cache
+D:\Repos\Skoluppgifter - YH backend\Labb 2\obj\Debug\net10.0\ref\Labb 2.dll
